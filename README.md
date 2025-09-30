@@ -13,7 +13,5 @@ Basic README.md and .gitignore files were created for this repo as well.
 5. Add details about you to the index.html page.
 6. Connect your HTML to a CSS file names styles.css and add a few basic styles.
 7. Add, commit, and push your updates to your repo.
-
-Using GitHub Pages make this webpage available at https://<HUB_USERNAME>.github.io/about-me/.
-
-Using Infinity Free Hosting make this page available at http://<SOMETHING>.epizy.com/about-me.
+8. Using GitHub Pages make this webpage available at https://<HUB_USERNAME>.github.io/about-me/.
+9. Using Infinity Free Hosting make this page available at http://<INFINITY_FREE_USERNAME>.infinityfreeapp.com/about-me.
