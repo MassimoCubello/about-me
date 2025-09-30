@@ -1,0 +1,14 @@
+/* Styling for my About Me page */
+
+body {
+    background-color: #f0f0f0; /* Light grey */
+    color: #333; /* Dark grey */
+    margin: 20px;
+    padding: 20px;
+    line-height: 1.6;
+    font-family: 'Courier New', Courier, monospace
+}
+
+h1, h2 {
+    color: #000080; /* Navy blue */
+}
